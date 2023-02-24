@@ -6,8 +6,8 @@
 <dd>最新版(InternetStroller Memoria)は</dd>
 <dd>こちら:</dd>
 <dd>****************************************************************************</dd>
-<dd<dd>>This browser is an archive of InternetStroller for XP.</dd>
-<dd<dd>>It uses IE components in the HotSoupProcessor language.</dd>
+<dd>This browser is an archive of InternetStroller for XP.</dd>
+<dd>It uses IE components in the HotSoupProcessor language.</dd>
 <dd>It is designed to run on Windows XP.</dd>
 <dd>You can switch between Japanese/English.</dd>
 <dd>The latest version (InternetStroller Memoria) is</dd>
