@@ -12,6 +12,6 @@
 <dd>You can switch between Japanese/English.</dd>
 <dd>The latest version (InternetStroller Memoria) is</dd>
 <dd>here:</dd>
-<dd>=======================================================================================================</dd>
+<dd>****************************************************************************</dd>
 <dd>InternetStroller for WindowsXP</dd>
 <dd>Made by ABATBeliever</dd>
